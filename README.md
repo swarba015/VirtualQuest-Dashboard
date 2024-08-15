@@ -2,7 +2,7 @@
 
 
 ## Overview
-The VirtueQuest Dashboard is a Python project developed by an interdisciplinary team consisting of Nusrat Atika, Ellis Dyke, and Nuzhat Zahan. This project aims to provide users with a user-friendly web interface for accessing various tools and information. It utilizes cutting-edge technologies and APIs to offer a seamless experience.
+This project aims to provide users with a user-friendly web interface for accessing various tools and information. It utilizes cutting-edge technologies and APIs to offer a seamless experience.
 
 This project serves as a effort for the "SI 568: Introduction to Applied Data Science" course. 
 
